@@ -43,7 +43,7 @@
   <para>
    After successful authentication, you'll end up on the start page again -
    with new options visible. We'll go through most of them in detail, but
-   first lets create your home: in the next step.
+   first let's create your home: in the next step.
   </para>
   <figure>
    <title>Logged_in</title>
@@ -57,8 +57,7 @@
  <section>
   <title>Create your home project</title>
   <para>
-   Every developer has his/her home:[userid] project where he/she has write
-   access by default. This is like your personal project or dashboard where
+      Every developer has their own <emphasis>home:[userid]</emphasis> project with write access by default. This is like your personal project or dashboard where
    you can experiment and play. But first you need to enter some lines to
    describe your home project. Click on the link "Home Project" at the
    bottom left or upper right and answer the questions.
