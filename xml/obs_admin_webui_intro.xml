@@ -39,7 +39,7 @@
   </figure>
   <para>
       After creating a user account, return to the Welcome page, click the <emphasis>Log In</emphasis> link in the upper-right corner, and enter the username and passord.
-      On successfully authenticating, the Welcome Page will be displayed again, but with additional options available.  The following chapters will describe those, but
+      On successfully authenticating, the Welcome Page will be displayed again, but this time with additional options available.  The following chapters will describe those, but
       it is first necessary to create a  <emphasis>home:</emphasis> for your account.  The next section will descibe how that is done.
   </para>
   <figure>
@@ -53,33 +53,16 @@
  </section>
 
  <section>
-  <title>Creating a home project</title>
+  <title>Creating a Home project</title>
   <para>
-      Every developer has their own <emphasis>home:[userid]</emphasis> project with write access by default. This is like your personal project or dashboard in
-      which to experiment and test.  First enter a description of your home project.  Click on the <emphasis>Home Project</emphasis> link at the
-   bottom-left or upper-right of the page and complete the form.
+      Every developer has their own <emphasis>home:[userid]</emphasis> project with write access by default. This is like a personal project or dashboard in which to experiment.  Clicking on the <emphasis>Home Project</emphasis> link at the bottom-left or upper-right of the page will display a form requesting information about your project.  Complete the form with a Title and Description as per the figure.  This is where packages containing the sources/build recipes and projects which are the containers for the build
+   targets can be added.  Notice that you are the default maintainer; that grants you full write access to this project. You are also the bug owner of your project.
   </para>
   <figure>
    <title>Home project description</title>
    <mediaobject>
     <imageobject>
      <imagedata fileref="homeproject_description.png" width="800" />
-    </imageobject>
-   </mediaobject>
-  </figure>
-  <para>
-   Now you are redirected to your home: . It will be empty for now, but as
-   you see in the picture below, you can add packages containing the
-   sources/build recipes and projects which are the containers for the build
-   targets. As you can see, you're the default maintainer which grants you
-   full write access to this project. You're also the bug owner of your
-   project.
-  </para>
-  <figure>
-   <title>home_project_webui_description</title>
-   <mediaobject>
-    <imageobject>
-     <imagedata fileref="home_project_webui_description.png" width="800" />
     </imageobject>
    </mediaobject>
   </figure>
