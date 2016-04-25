@@ -27,7 +27,7 @@
    </mediaobject>
   </figure>
   <para>
-     Create a user account by clicking on the 'Sign Up' link in the upper-right corner of the page and completing the presented form.
+      Create a user account by clicking on the <emphasis>Sign Up</emphasis> link in the upper-right corner of the page and completing the presented form.
   </para>
   <figure>
    <title>Create login account</title>
@@ -38,82 +38,32 @@
    </mediaobject>
   </figure>
   <para>
-   After successful authentication, you'll end up on the start page again -
-   with new options visible. We'll go through most of them in detail, but
-   first let's create your home: in the next step.
+      After creating a user account, return to the Welcome page, click the <emphasis>Log In</emphasis> link in the upper-right corner, and enter the username and passord.
+      On successfully authenticating, the Welcome Page will be displayed again, but with additional options available.  The following chapters will describe those, but
+      it is first necessary to create a  <emphasis>home:</emphasis> for your account.  The next section will descibe how that is done.
   </para>
   <figure>
-   <title>Logged_in</title>
+   <title>Authenticated</title>
    <mediaobject>
     <imageobject>
-     <imagedata fileref="logged_in.png" width="800" />
-    </imageobject>
-   </mediaobject>
-  </figure>
- </section>
- <section>
-  <title>Start page and Login</title>
-  <para>
-   Open your favorite browser and navigate to
-   <ulink url="https://build.opensuse.org"/>
-  </para>
-  <figure>
-   <title>Start page</title>
-   <mediaobject>
-    <imageobject>
-     <imagedata fileref="start_page_login.png" width="800" />
-    </imageobject>
-   </mediaobject>
-  </figure>
-  <para>
-   To proceed, you'll need to log in and authenticate with your username and
-   your password. Click on Login and enter the data in the upper right
-   corner.
-  </para>
-  <figure>
-   <title>Login</title>
-   <mediaobject>
-    <imageobject>
-     <imagedata fileref="login_prompt.png" width="800" />
-    </imageobject>
-   </mediaobject>
-  </figure>
-  <para>
-   After successful authentication, you'll end up on the start page again -
-   with new options visible. We'll go through most of them in detail, but
-   first let's create your home: in the next step.
-  </para>
-  <figure>
-   <title>Logged_in</title>
-   <mediaobject>
-    <imageobject>
-     <imagedata fileref="logged_in.png" width="800" />
+     <imagedata fileref="authenticated.png" width="800" />
     </imageobject>
    </mediaobject>
   </figure>
  </section>
 
  <section>
-  <title>Create your home project</title>
+  <title>Creating a home project</title>
   <para>
-      Every developer has their own <emphasis>home:[userid]</emphasis> project with write access by default. This is like your personal project or dashboard where
-   you can experiment and play. But first you need to enter some lines to
-   describe your home project. Click on the link "Home Project" at the
-   bottom left or upper right and answer the questions.
+      Every developer has their own <emphasis>home:[userid]</emphasis> project with write access by default. This is like your personal project or dashboard in
+      which to experiment and test.  First enter a description of your home project.  Click on the <emphasis>Home Project</emphasis> link at the
+   bottom-left or upper-right of the page and complete the form.
   </para>
   <figure>
-   <title>home_project_upper_right</title>
+   <title>Home project description</title>
    <mediaobject>
     <imageobject>
-     <imagedata fileref="homeproject_upperright.png" width="800" />
-    </imageobject>
-   </mediaobject>
-  </figure>
-  <figure>
-   <title>home_project_bottom_left</title>
-   <mediaobject>
-    <imageobject>
-     <imagedata fileref="homeproject_bottomleft.png" width="800" />
+     <imagedata fileref="homeproject_description.png" width="800" />
     </imageobject>
    </mediaobject>
   </figure>
